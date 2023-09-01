@@ -2,12 +2,36 @@
 title: "About This Website"
 ---
 
-About Me:
+**bold text** About Me:
 I have lived in New Hampshire my whole life and I don't dream of living anywhere else. The changing seasons and the ability to go to the ocean and mountains in one day is what New England is all about. Although New Hampshire will always be my home I love to travel. 
 
-Hobbies:
-I love to be out in nature land or water it doesn't matter. When Michaela was young I practically lived in the lake snokeling around until dusk watching the fish swim around and feed off of the lake floor. I also love to go hiking with my dogs there are so many fun and challenging trails to hike in New Hampshire. I also love photography! Doing all of these activities in nature can lead to beautiful pictures. 
+**bold text** Education:
+I got my B.S. in Marine, Estuarine, and Freshwater Biology from the University of New Hampshire in 2023.
+Currently I am in the Marine Biology Masters Program at the University of New Hampshire. My focus for my Masters degree is on Eastern oysters and their behavioral responses to different interactions with European green crabs. 
 
-Education:
-I got my B.S. in Marine, Estuarine, and Freshwater Biology from the University of New Hampshire in 2023
-Currently I am in the Marine Biology Masters Program at the University of New Hampshire. My focus for my Masters degree is on Eastern Oysters and their behavioral responses to European green crabs. 
+**bold text** Hobbies:
+I love to be out in nature land or water it doesn't matter. When I was young I practically lived in the lake snorkeling around until dusk watching the fish swim around and feed off of the lake floor. I also love to go hiking with my dogs there are so many fun and challenging trails to hike in New Hampshire. I also love photography! Doing all of these activities in nature can lead to beautiful pictures. 
+![alt text](IMG_1.jpg)
+![alt text](IMG_2.jpg)
+![alt text](Snapseed 3.jpg)
+![alt text](IMG_4.jpg)
+![alt text](IMG_5.jpg)
+![alt text](IMG_6.jpg)
+![alt text](IMG_7.jpg)
+![alt text](IMG_8.jpg)
+![alt text](IMG_9.jpg)
+![alt text](IMG_10.jpg)
+![alt text](IMG_14.jpg)
+![alt text](IMG_15.jpg)
+![alt text](IMG_28.jpg)
+![alt text](IMG_16.jpg)
+![alt text](IMG_17.jpg)
+![alt text](IMG_18.jpg)
+![alt text](IMG_19.jpg)
+![alt text](IMG_25.jpg)
+![alt text](IMG_20.jpg)
+![alt text](IMG_21.jpg)
+![alt text](IMG_22.jpg)
+![alt text](IMG_24.jpg)
+![alt text](IMG_26.jpg)
+

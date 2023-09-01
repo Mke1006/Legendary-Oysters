@@ -1,11 +1,17 @@
 ---
-title: "My Website"
+title: "Michaela's Website"
 ---
 
-#H1 Hello, Welcome to my website!
+**bold text** Hello, Welcome to my website!
+
 My name is Michaela Edwards and I am currently a Masters student at the University of New Hampshire!
  
-#H1 Affiliated Labs and Research:
-[title](https://quantmarineecolab.github.io/members/michaela-edwards.html)
-[title](https://brittanyjellison.wixsite.com/research)
+**bold text** Affiliated Labs and Research:
+
+1. [Quantitative Marine Ecology Lab](https://quantmarineecolab.github.io/research/)
+
+2. [Marine Ecophysiology Lab](https://brittanyjellison.wixsite.com/research)
+
+3. [Why scientists are hooking up oysters to biosensors](https://www.bostonglobe.com/2023/08/15/metro/why-scientists-are-hooking-oysters-up-biosensors/)
+
 ![alt text](image.jpeg)
