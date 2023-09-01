@@ -2,11 +2,11 @@
 title: "Michaela's Website"
 ---
 
-**bold text** Hello, Welcome to my website!
+**Hello, Welcome to my website!** 
 
 My name is Michaela Edwards and I am currently a Masters student at the University of New Hampshire!
  
-**bold text** Affiliated Labs and Research:
+**Affiliated Labs and Research:** 
 
 1. [Quantitative Marine Ecology Lab](https://quantmarineecolab.github.io/research/)
 
