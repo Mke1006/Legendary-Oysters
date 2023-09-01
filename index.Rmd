@@ -4,7 +4,7 @@ title: "Michaela's Website"
 
 **Hello, Welcome to my website!** 
 
-My name is Michaela Edwards and I am currently a Masters student at the University of New Hampshire!
+My name is Michaela Edwards and I am currently a Masters student at the University of New Hampshire! I am focused on predator-prey relationships with a narrower focus on invasive species and the intertidal zone. 
  
 **Affiliated Labs and Research:** 
 
@@ -14,4 +14,8 @@ My name is Michaela Edwards and I am currently a Masters student at the Universi
 
 3. [Why scientists are hooking up oysters to biosensors](https://www.bostonglobe.com/2023/08/15/metro/why-scientists-are-hooking-oysters-up-biosensors/)
 
-![alt text](image.jpeg)
+![Juvenile Lobster found in Rye, NH](image.jpeg)
+**Images from previously conducted study**
+[](IMG_30.jpg)
+[](IMG_31.jpg)
+[](IMG_33.jpg)
