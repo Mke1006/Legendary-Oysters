@@ -14,12 +14,14 @@ My name is Michaela Edwards and I am currently a Masters student at the Universi
 
 3. [Why scientists are hooking up oysters to biosensors](https://www.bostonglobe.com/2023/08/15/metro/why-scientists-are-hooking-oysters-up-biosensors/)
 
-![](image.jpeg)
+<img src="image.jpeg" width="400">
+
 Juvenile Lobster found in Rye, NH 
 
 
 **Images from previously conducted study**
-![](IMG_30.jpg)
-![](IMG_31.jpg)
-![](IMG_32.jpg)
-![](IMG_33.jpg)
+```{r, echo=FALSE}
+paths <- c("IMG_30.jpg","IMG_31.jpg","IMG_32.jpg","IMG_33.jpg")
+library(pixture)
+pixgallery(paths)
+```
